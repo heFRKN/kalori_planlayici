@@ -22,8 +22,3 @@ Bu proje, bilgisayar programcılığı final ödevi kapsamında geliştirilmiş;
 - **Detaylı Spor Modülü:** Yürüyüş bandı (hız/eğim) ve ağırlık antrenmanı için gerçekçi kalori hesabı.
 - **Kalıcı Hafıza:** Uygulama kapatılsa dahi verileri silmeyen yerel veritabanı desteği.
 - **Geçmiş Raporu:** Önceki günlerin verilerini inceleyebilme ve detaylı gün sonu özeti.
-
-## 📦 Kurulum ve Çalıştırma
-Proje kök dizininde `.gitignore` kullanılmış; `build`, `.gradle` ve `.dart_tool` gibi gereksiz dosyalar depoya dahil edilmemiştir. 
-1. `flutter pub get`
-2. `flutter run`

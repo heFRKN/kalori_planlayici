@@ -1,16 +1,29 @@
-# kalori_planlayici
+# FitPro Ultimate - Kalori ve Spor Takip Asistanı
 
-A new Flutter project.
+Bu proje, bilgisayar programcılığı final ödevi kapsamında geliştirilmiş; sporcuların günlük kalori, makro besin, su ve detaylı antrenman takibi yapabilmesini sağlayan profesyonel bir mobil uygulamadır.
 
-## Getting Started
+## 👥 Proje Ekibi
+- Furkan Rahmi Tiril
+- Ahmet Talay
+- Abdülkadir Efe Karataş
 
-This project is a starting point for a Flutter application.
+## 🛠 Kullanılan Teknolojiler
+- **Framework:** Flutter (3.x)
+- **Dil:** Dart
+- **Veri Saklama:** Shared Preferences (Kalıcı Yerel Depolama)
+- **Hesaplama Algoritmaları:** Mifflin-St Jeor Denklemi & ACSM Spor Bilimi Formülleri
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Test Edilen Platformlar
+- **Fiziksel Cihaz:** Xiaomi Redmi Note 12 PRO (Android 13)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Öne Çıkan Özellikler
+- **Kişiselleştirilmiş Profil:** Yaş, boy, kilo ve aktivite katsayısına göre dinamik TDEE hesabı.
+- **Akıllı Makro Takibi:** Hedefe göre otomatik belirlenen Protein ve Karbonhidrat barları.
+- **Detaylı Spor Modülü:** Yürüyüş bandı (hız/eğim) ve ağırlık antrenmanı için gerçekçi kalori hesabı.
+- **Kalıcı Hafıza:** Uygulama kapatılsa dahi verileri silmeyen yerel veritabanı desteği.
+- **Geçmiş Raporu:** Önceki günlerin verilerini inceleyebilme ve detaylı gün sonu özeti.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Kurulum ve Çalıştırma
+Proje kök dizininde `.gitignore` kullanılmış; `build`, `.gradle` ve `.dart_tool` gibi gereksiz dosyalar depoya dahil edilmemiştir. 
+1. `flutter pub get`
+2. `flutter run`

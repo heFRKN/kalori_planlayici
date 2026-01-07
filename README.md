@@ -1,4 +1,4 @@
-# FitPro Ultimate - Kalori ve Spor Takip Asistanı
+# Kalori Planlayıcı - Kalori ve Spor Takip Asistanı
 
 Bu proje, bilgisayar programcılığı final ödevi kapsamında geliştirilmiş; sporcuların günlük kalori, makro besin, su ve detaylı antrenman takibi yapabilmesini sağlayan profesyonel bir mobil uygulamadır.
 
